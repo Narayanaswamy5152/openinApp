@@ -71,6 +71,12 @@ Returns a response based on the credentials provided
 
 </details>
 
+<details>
+Note:-When you open the app it will defaultly opens the home screen if you want to see login  
+page you can change url as narayanopenin.ccbp.tech/login the login page will get appeared after entering login details you will be redirected to home page. It is a one time process if you want to again redirect to login page you can't redirect because jwt token is stored as cookie if we can delete it we can easily redirect to login page again.
+</details>
+
+
 ### Resources
 
 <details>
